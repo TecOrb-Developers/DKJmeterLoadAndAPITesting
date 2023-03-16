@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1678969662388,7062,Home page,200,OK,Number of User 1-1,text,false,"Attribute name ""crossorigin"" associated with an element type ""link"" must be followed by the ' = ' character.",41350,260,10,10,https://www.ambiview.com/all/course,1240,0,944
+1678969662388,1240,Home page-0,301,Moved Permanently,Number of User 1-1,text,true,,379,130,10,10,http://www.ambiview.com/all/course,1240,0,944
+1678969663630,5820,Home page-1,200,OK,Number of User 1-1,text,true,,40971,130,10,10,https://www.ambiview.com/all/course,5197,0,4619
+1678969662880,6629,Home page,200,OK,Number of User 1-6,text,false,"Attribute name ""crossorigin"" associated with an element type ""link"" must be followed by the ' = ' character.",41350,260,9,9,https://www.ambiview.com/all/course,774,0,468
+1678969662880,774,Home page-0,301,Moved Permanently,Number of User 1-6,text,true,,379,130,9,9,http://www.ambiview.com/all/course,774,0,468
+1678969663657,5852,Home page-1,200,OK,Number of User 1-6,text,true,,40971,130,9,9,https://www.ambiview.com/all/course,5219,0,4635
+1678969662678,6927,Home page,200,OK,Number of User 1-4,text,false,"Attribute name ""crossorigin"" associated with an element type ""link"" must be followed by the ' = ' character.",41350,260,8,8,https://www.ambiview.com/all/course,953,0,657
+1678969662678,953,Home page-0,301,Moved Permanently,Number of User 1-4,text,true,,379,130,8,8,http://www.ambiview.com/all/course,953,0,657
+1678969663632,5973,Home page-1,200,OK,Number of User 1-4,text,true,,40971,130,8,8,https://www.ambiview.com/all/course,5333,0,4736
+1678969663082,6561,Home page,200,OK,Number of User 1-8,text,false,"Attribute name ""crossorigin"" associated with an element type ""link"" must be followed by the ' = ' character.",41350,260,7,7,https://www.ambiview.com/all/course,590,0,296
+1678969663082,590,Home page-0,301,Moved Permanently,Number of User 1-8,text,true,,379,130,7,7,http://www.ambiview.com/all/course,590,0,296
+1678969663673,5970,Home page-1,200,OK,Number of User 1-8,text,true,,40971,130,7,7,https://www.ambiview.com/all/course,5335,0,4737
+1678969662462,7210,Home page,200,OK,Number of User 1-2,text,false,"Attribute name ""crossorigin"" associated with an element type ""link"" must be followed by the ' = ' character.",41350,260,6,6,https://www.ambiview.com/all/course,1149,0,861
+1678969662462,1149,Home page-0,301,Moved Permanently,Number of User 1-2,text,true,,379,130,6,6,http://www.ambiview.com/all/course,1149,0,861
+1678969663612,6060,Home page-1,200,OK,Number of User 1-2,text,true,,40971,130,6,6,https://www.ambiview.com/all/course,5375,0,4780
+1678969663280,6444,Home page,200,OK,Number of User 1-10,text,false,"Attribute name ""crossorigin"" associated with an element type ""link"" must be followed by the ' = ' character.",41350,260,5,5,https://www.ambiview.com/all/course,596,0,298
+1678969663280,596,Home page-0,301,Moved Permanently,Number of User 1-10,text,true,,379,130,5,5,http://www.ambiview.com/all/course,596,0,298
+1678969663877,5847,Home page-1,200,OK,Number of User 1-10,text,true,,40971,130,5,5,https://www.ambiview.com/all/course,5221,0,4636
+1678969663181,6554,Home page,200,OK,Number of User 1-9,text,false,"Attribute name ""crossorigin"" associated with an element type ""link"" must be followed by the ' = ' character.",41350,260,5,5,https://www.ambiview.com/all/course,597,0,298
+1678969663181,597,Home page-0,301,Moved Permanently,Number of User 1-9,text,true,,379,130,5,5,http://www.ambiview.com/all/course,597,0,298
+1678969663779,5956,Home page-1,200,OK,Number of User 1-9,text,true,,40971,130,5,5,https://www.ambiview.com/all/course,5328,0,4734
+1678969662980,6815,Home page,200,OK,Number of User 1-7,text,false,"Attribute name ""crossorigin"" associated with an element type ""link"" must be followed by the ' = ' character.",41350,260,3,3,https://www.ambiview.com/all/course,660,0,358
+1678969662980,660,Home page-0,301,Moved Permanently,Number of User 1-7,text,true,,379,130,3,3,http://www.ambiview.com/all/course,660,0,358
+1678969663641,6154,Home page-1,200,OK,Number of User 1-7,text,true,,40971,130,3,3,https://www.ambiview.com/all/course,5492,0,4877
+1678969662578,7264,Home page,200,OK,Number of User 1-3,text,false,"Attribute name ""crossorigin"" associated with an element type ""link"" must be followed by the ' = ' character.",41350,260,2,2,https://www.ambiview.com/all/course,1063,0,761
+1678969662578,1063,Home page-0,301,Moved Permanently,Number of User 1-3,text,true,,379,130,2,2,http://www.ambiview.com/all/course,1063,0,761
+1678969663642,6200,Home page-1,200,OK,Number of User 1-3,text,true,,40971,130,2,2,https://www.ambiview.com/all/course,5538,0,4921
+1678969662780,7111,Home page,200,OK,Number of User 1-5,text,false,"Attribute name ""crossorigin"" associated with an element type ""link"" must be followed by the ' = ' character.",41350,260,1,1,https://www.ambiview.com/all/course,874,0,568
+1678969662780,874,Home page-0,301,Moved Permanently,Number of User 1-5,text,true,,379,130,1,1,http://www.ambiview.com/all/course,874,0,568
+1678969663657,6234,Home page-1,200,OK,Number of User 1-5,text,true,,40971,130,1,1,https://www.ambiview.com/all/course,5539,0,4922
